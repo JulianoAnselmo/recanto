@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://recantopizzaria.com.br/sitemap.xml
